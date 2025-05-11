@@ -1,4 +1,6 @@
 runs*
 videos*
 results*
+!plot_results.py
+!plot_reward.ipynb
 **__pycache__**
